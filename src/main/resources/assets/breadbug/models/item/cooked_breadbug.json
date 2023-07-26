@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "breadbug:item/cooked_breadbug"
+  }
+}
