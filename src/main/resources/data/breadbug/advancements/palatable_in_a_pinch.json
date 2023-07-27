@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "breadbug:cooked_breadbug"
+    },
+    "title": {
+      "translate": "advancement.breadbug.palatable_in_a_pinch.title"
+    },
+    "description": {
+      "translate": "advancement.breadbug.palatable_in_a_pinch.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "eat_breadbug_meat": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "tag": "breadbug:breadbug_meat"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "eat_breadbug_meat"
+    ]
+  ]
+}

@@ -1,5 +1,13 @@
 {
-  "itemGroup.breadbug": "Breadbug",
+  "itemGroup.breadbug": "Breadbug Mod",
   "item.breadbug.raw_breadbug": "Raw Breadbug",
-  "item.breadbug.cooked_breadbug": "Cooked Breadbug"
+  "item.breadbug.cooked_breadbug": "Cooked Breadbug",
+  "item.breadbug.music_disc_the_forest_navel": "Music Disc",
+  "item.breadbug.music_disc_the_forest_navel.desc": "Pikmin - The Forest Navel",
+  "item.breadbug.music_disc_giant_breadbug": "Music Disc",
+  "item.breadbug.music_disc_giant_breadbug.desc": "Pikmin 2 - Giant Breadbug",
+  "item.breadbug.crumbug_spawn_egg": "Crumbug Spawn Egg",
+  "entity.breadbug.crumbug": "Crumbug",
+  "advancement.breadbug.palatable_in_a_pinch.title": "Palatable in a Pinch",
+  "advancement.breadbug.palatable_in_a_pinch.description": "Eat raw or cooked Breadbug"
 }

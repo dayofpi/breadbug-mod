@@ -1,0 +1,18 @@
+{
+  "music_disc.the_forest_navel": {
+    "sounds": [
+      {
+        "name": "breadbug:records/the_forest_navel",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.giant_breadbug": {
+    "sounds": [
+      {
+        "name": "breadbug:records/giant_breadbug",
+        "stream": true
+      }
+    ]
+  }
+}
